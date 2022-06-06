@@ -1,0 +1,44 @@
+body {
+    min-height: 300vh;
+    font-family: Arial;
+  }
+  
+  a {
+    cursor: pointer;
+  }
+  
+.img{
+    width: 500px;
+    height: 250px;
+    align-items: center;
+  }
+  .img1{
+      width:440px;
+      height: 330px;
+      align-items: center;
+      
+    }
+    
+  .img2{
+      width:577px;
+      height: 433px;
+      align-items: center;
+    }
+
+    .img3{
+        width:577px;
+        height:433px;
+        align-items: center;
+        
+      }
+
+      .texto{
+          font-size: 20px;
+          font-family: arial;
+          color: black;
+      }
+
+      .display-4{
+          color: black;
+      }
+
