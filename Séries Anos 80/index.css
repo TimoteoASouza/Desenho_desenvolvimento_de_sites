@@ -1,0 +1,48 @@
+body{
+font-family: Arial;
+font-size: 20px;
+align-items: center;
+text-align: justify;
+margin: 0px 100px;
+background-color: rgb(50 20 25);
+color: aliceblue;
+
+
+
+}
+
+.img{
+    margin-bottom: 120px;
+  width: 200px;
+  margin: 10px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  display: flex;
+    
+}
+
+a{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    
+    
+}
+h3{
+  text-align: center;
+
+
+
+}
+h2{
+  text-align: center;
+
+
+}
+h1{
+  text-align: center;
+
+
+
+}
