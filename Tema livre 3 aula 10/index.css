@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    background-color: rgb(0 0 34);
+    color: aliceblue;
+    margin:  0px 300px;
+    font-family: Arial;
+    text-align: justify;
+}
+
+.link{
+    color: rgb(34 34 200);
+    font-size: 25px;
+    
+    
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+
+
+}
+.img1{
+   width: 300px;
+   height: 300px;
+}
+
+.titulo{
+    font-size: 60px;
+    color: blue;
+    font-style: italic ;
+    text-align: center;
+    
+}
+
+.lista{
+    padding: 0;
+    text-align: left;
+}
+h1{
+    text-align: center;
+    color: blue;
+
+}
+
+p{
+    color: gray;
+
+}
+
+ol{
+    color: gray;
+}
